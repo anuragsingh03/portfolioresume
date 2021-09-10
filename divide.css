@@ -1,0 +1,136 @@
+.body-conatiner{
+    padding-left:150px;
+    padding-top: 10px;
+    padding-right: 150px;
+}
+.box{
+    background-color: #cce2ed;
+    width:100%;
+    height: 150vh;
+}
+.box-left{
+    background-color:#cce2ed;
+    height: 100vx;
+    width: 70%;
+    float: left;
+}
+.box-right{
+    background-color: #cce2ed;
+    height: 100vx;
+    width: 30%;
+    float: right;
+}
+.image-holder{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 5px solid #fff;
+    margin: 10px 50px;
+}
+.img{
+    height: 128%;
+    width: 101%;
+}
+.profile{
+    font-size: 25px;
+}
+.profile > a > img{
+    margin: 10px 20px  ;
+    padding: 0px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.header{
+    margin:5px 10px;
+
+}
+.header>h1{
+    font-size: 32px;
+    margin: 2px 0px;
+}
+.header >p{
+    font-size: 16px;
+    margin: 2px 0px;
+    color:#1a0701;
+    font-weight: 600;
+}
+.split{
+    width:100%;
+    height:44.5vh;
+    background-color:#76948c;
+    border: 6px solid black;
+    margin-right: auto;
+
+}
+.split-left{
+    float:left;
+    width:30%;
+    height:100%;
+}
+.split-right{
+    margin: 50px 30px ;
+    float:left;
+    width:20%;
+    height:100%
+
+}
+.content{
+    width: 97%;
+    height: 140vh;
+    float: left;
+    border: 6px solid black;
+    background-color:#f2f4f5;
+    color:#111212;
+}
+.about-myself {
+    margin-left: 10px;
+
+}
+.heading{
+    padding:10px 10px;
+    font-size: 25px;
+}
+.about-myself > p{
+    padding: 10px 10px;
+}
+.edu-container{
+    margin:10px 10px;
+    border-top: 2px solid white;
+
+}
+.edu{
+    margin:32px;
+}
+.edu >h6{
+    font-size: 16px;
+    margin: 4px ;
+}
+.edu >p{
+    font-size: 14px;
+    margin: 0px;
+}
+.skills-container>ul>li{
+    background-color:#3e98d7;
+    margin: 3px;
+    padding: 4px;
+    border-radius: 5px;
+}
+.skills-container{
+    display: inline-table;
+    border: 6px solid black;
+    background-color: #f2f4f5;
+    color: #111212;
+    width: 100%;
+
+}
+.achievement{
+    margin-left: 10px;
+    border: 6px solid black;
+    background-color: #f2f4f5;
+    color: #111212;
+    margin-top: 40px;
+    height: 40vh;
+
+};
